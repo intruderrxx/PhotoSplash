@@ -48,6 +48,10 @@ Working fine on CC18 version 20
 
 Please do mention your version number in issues, in case above steps do not work!
 
+# Sample Splash Illustration
+
+![RickAndMorty](https://raw.githubusercontent.com/AnshumanFauzdar/PhotoSplash/master/Splash1080Background_s0.png)
+
 ## Video coming soon by @harshittewatia
 
 Initial work by "http://psccicon.azurewebsites.net"
