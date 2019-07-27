@@ -37,12 +37,15 @@ PS- Working smoothly on CC2018 20 version
 # FAQ
 
 Q. In my case, splash image is not named as "Splash1080Background_s0", what should I do now?
+
 A. Name can be different in other versions than other and in case there can be 2 splash images, other being extended one! Adjust according to your configuration and use common sense!
 
 Q. Script file is not working
+
 A. Try running as administrator!
 
 Q. My splash screen looks messy and glitchy!
+
 A. Redo the process and assure that you donot mix the sizes of High and Low Folder
 
 # Supported Versions:
