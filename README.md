@@ -36,7 +36,7 @@ PS- Working smoothly on CC2018 20 version
   
 # FAQ
 
-###1.
+### 1.
 Q. In my case, splash image is not named as "Splash1080Background_s0", what should I do now?
 
 A. Name can be different in other versions than other and in case there can be 2 splash images, other being extended one! Adjust according to your configuration and use common sense!
