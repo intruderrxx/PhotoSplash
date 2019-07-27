@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/downloads/AnshumanFauzdar/PhotoSplash/total)
+![](https://img.shields.io/github/release/AnshumanFauzdar/PhotoSplash)
 # PhotoShop-Splash
 
 Are you tired of looking at default splashscreen of your photoshop or just the picture doesnot look good!
