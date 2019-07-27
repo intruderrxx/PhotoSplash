@@ -60,6 +60,7 @@ Please do mention your version number in issues, in case above steps do not work
 # Sample Splash Illustration
 
 ![RickAndMorty](https://raw.githubusercontent.com/AnshumanFauzdar/PhotoSplash/master/Splash1080Background_s0.png)
+![PremierePro](https://raw.githubusercontent.com/AnshumanFauzdar/PhotoSplash/master/PremierePro.png)
 
 ## Video coming soon by @harshittewatia
 
