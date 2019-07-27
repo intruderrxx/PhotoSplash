@@ -7,7 +7,7 @@ PS- Working smoothly on CC2018 20 version
 
 # How to use?
 
-- Download the release from ![here](https://github.com/AnshumanFauzdar/PhotoSplash/releases) as zip file
+- Download the release from [here](https://github.com/AnshumanFauzdar/PhotoSplash/releases) as zip file
   - Extract the files to your desired location
 - Now go to Photoshop installed folder
   - which will be your installed location 
