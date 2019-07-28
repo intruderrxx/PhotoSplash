@@ -34,6 +34,10 @@ PS- Working smoothly on CC2018 20 version
   
   Now your splash screen is Changed! Have fun!
   
+## Step-Wise Tutorial
+
+![Stepwise][(https://raw.githubusercontent.com/AnshumanFauzdar/PhotoSplash/master/Stepwise.png)](https://youtu.be/FworYt5mOZs)
+  
 # FAQ
 
 ### 1.
