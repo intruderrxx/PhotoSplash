@@ -36,7 +36,7 @@ PS- Working smoothly on CC2018 20 version
   
 ## Step-Wise Tutorial
 
-![[Stepwise](https://raw.githubusercontent.com/AnshumanFauzdar/PhotoSplash/master/Stepwise.png)](https://youtu.be/FworYt5mOZs)
+[![Stepwise](https://raw.githubusercontent.com/AnshumanFauzdar/PhotoSplash/master/Stepwise.png)](https://youtu.be/FworYt5mOZs)
   
 # FAQ
 
