@@ -1,6 +1,7 @@
 ![](https://img.shields.io/github/downloads/AnshumanFauzdar/PhotoSplash/total)
 ![](https://img.shields.io/github/release/AnshumanFauzdar/PhotoSplash)
 ![](https://img.shields.io/github/repo-size/AnshumanFauzdar/PhotoSplash)
+
 # PhotoShop-Splash
 
 Are you tired of looking at default splashscreen of your photoshop or just the picture doesnot look good!
@@ -69,4 +70,4 @@ Please do mention your version number in issues, in case above steps do not work
 ## Video coming soon by @harshittewatia
 
 Initial work by "http://psccicon.azurewebsites.net"
-#
+#THANKYOU !!!!
